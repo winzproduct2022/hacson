@@ -7,7 +7,7 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <video src='/videos/network.mp4' autoPlay loop muted />
-      <h1>Hacson Engineering aims to provide the most qualified services</h1>
+      <h1>Go tech. We act.</h1>
       
       <div className='hero-btns'>
         <Button
